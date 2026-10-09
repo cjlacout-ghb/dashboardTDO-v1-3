@@ -1,0 +1,5 @@
+{
+  "name": "OPP_EstadísticaTrámiteDigital.v1-3",
+  "description": "Análisis interactivo de trámites digitales con carga de CSV, KPIs y reportes PDF.",
+  "requestFramePermissions": []
+}
